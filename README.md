@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando na Contec Sistemas
-- 🌱 Atualmente estou aprendendo JavaScript, Node.js
+- 🌱 Atualmente estou aprendendo JavaScript, Node.js e Vue.js
 
 ### Ferramentas e Tecnologias
 
